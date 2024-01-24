@@ -1,1 +1,2 @@
-# Знакомство с PYTHON
+
+![SlavAnna](logo1.png) # Знакомство с PYTHON
